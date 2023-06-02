@@ -1,0 +1,6 @@
+.head {
+    background-image: url(/src/images/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
