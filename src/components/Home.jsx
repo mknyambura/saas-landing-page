@@ -283,7 +283,7 @@ function Home() {
                             className={`text-sm ${(changeColor1 === true) ? 'text-white':'text-slate-500'}`}>
                                 <span 
                                     onClick={handleClick1}
-                                    className={`font-bold text-6xl  ${(changeColor1 === true) ? 'text-white':'text-[#0F0BC7]'}`}>$30</span>/month</h1>
+                                    className={`font-bold text-6xl  ${(changeColor1 === true) ? 'text-white':'text-[#0F0BC7]'}`}>$60</span>/month</h1>
                         <h1 
                             onClick={handleClick1}
                             className={`text-extralight text-xl ${(changeColor1 === true) ? 'text-white':'text-black'}`}>For Medium Business</h1>
@@ -323,7 +323,7 @@ function Home() {
                         <h1 
                             onClick={handleClick2}
                             className={`font-bold text-3xl ${(changeColor2 === true) ? 'text-white':'text-black'}`}>
-                                Pro
+                                Advanced
                         </h1>
 
                         <h1 
